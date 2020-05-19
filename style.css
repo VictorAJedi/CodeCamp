@@ -1,0 +1,25 @@
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 50px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+
+}
+
+h2 {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: : bold;
+
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+}
+
+div {
+	font-family:  'Open Sans', sans-serif;
+}
